@@ -1,14 +1,15 @@
-package com.tnsif.daytwo;
+package com.tns.ifet.daytwo;
 
-public class DoWhileDemo {
+public class WhileDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int i = 1;
-		do {
+		int i=99;
+		while(i<=100)
+		{
 		System.out.println(i);
 		i++;
-		} while (i <= 1);
+		}
 
 	}
 

@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tns.ifet.daytwo;
 
 public class ContinueDemo {
 

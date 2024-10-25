@@ -5,4 +5,4 @@
  * @author nares
  *
  */
-package com.tnsif.daytwo;
+package com.tns.ifet.daytwo;
